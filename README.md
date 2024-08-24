@@ -30,7 +30,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/todo-list.git
+git clone [https://github.com/yourusername/todo-list.git](https://github.com/ayudhamsankar/codetech-task1)
 Navigate to the project directory:
 
 bash
