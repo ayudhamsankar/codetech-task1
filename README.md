@@ -5,6 +5,9 @@ Domain: WEB DEVELOPMENT
 Duration: m AUGUST 20th, 2024 to OCTOBER 5th, 2024
 Mentor: Neela Santhosh Kumar 
 
+OUTPUT:
+
+![Screenshot 2024-08-24 211111](https://github.com/user-attachments/assets/8151676e-bf08-4353-a16c-606d24a8760c)
 
 
 
